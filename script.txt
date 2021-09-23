@@ -1,0 +1,14 @@
+//this will serve as an unofficial compilation of dialogue lines which will be interspersed throughout the project 
+//i have put these here so that they can be referenced in context, and as a sample of any work i intend to do going forward 
+//* SEE: TWITTER.COM/PREVAILINGWEST for promotional material relating to this project *// 
+
+
+CAPTAIN: Where'd it go? 
+ELISE: We're combing the system. Not looking good. 
+CAPTAIN: Get this garbage off my screen. 
+
+[ENTER: The Betrayer, The Silent One, He Whom Death Rejects] 
+
+Mephistopheles: Aren't you forgetting something? 
+BETRAYER: Never. 
+(** the betrayer removes the remainder of the chits from his breast pocket, before placing them on the examination table **)
